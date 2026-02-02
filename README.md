@@ -2,6 +2,8 @@
 
 built in unity! my first kinda big-ish game dev project so the setup isn't optimized, but i learned lots through the mistakes i made with designing this :))
 
+demo: https://youtu.be/CpbLQhbtVeE
+
 assets used:
 - https://monopixelart.itch.io/forest-monsters-pixel-art
 - https://solaarnoble.itch.io/32x32-tileset
